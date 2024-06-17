@@ -1,0 +1,136 @@
+
+<html lang="en">
+<head>
+    <title>historic places in india</title>
+
+    <link  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"rel="stylesheet">
+    <style>
+
+body{background-color: rgb(216, 210, 213);}
+
+#e{grid-area: e1;}
+#f{grid-area: f1;}
+#g{grid-area: g1;}
+#h{grid-area: h1;}
+#i{grid-area: i1;}
+#j{grid-area: j1;}
+#k{grid-area: k1;}
+#l{grid-area: l1;}
+
+.maindiv{
+    display: grid;
+grid-template-areas: 'e1 f1 '
+'g1 h1 ' 
+'i1 j1 '
+'k1 l1';
+border-spacing: 10px;
+padding-top: 100px;
+}
+p{color: black;}
+
+#e{margin-left: 130px;}
+#g{ margin-left: 130px;}
+#i{ margin-left: 130px;}
+#k{margin-left: 130px;}
+
+
+header{background-color: rgb(115, 105, 107);
+width: 100%;
+height: 80px;
+position: absolute;
+margin: 0px;
+margin-left: 0px;
+margin-top: 0px;
+border-left: 0px;
+}
+h1{color: white;}
+
+footer{background-color:rgb(185, 174, 179);
+    height: 85px;
+    padding-top: 5px; 
+    
+}
+#o{ padding-bottom: 0px;}
+    </style>
+</head>
+<body>
+<header align="center"><h1 align="center"> HISTORIC PLACES IN INDIA </h1></header>
+
+        <div class="maindiv" align="center">
+        <div id="e">><img src="https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?auto=compress&cs=tinysrgb&w=600" width="300px"height="200px"></a>
+        <p>The Taj Mahal is an ivory-white
+             marble mausoleum <br>on the south bank
+              of the Yamuna river <br>in the Indian
+               city of Agra. It was <br>commissioned 
+               in 1632 by the Mughal emperor,<br>
+                Shah Jahan (reigned from 1628 to 1658), <br>
+                to house the Mumtaz Mahal.<a href=" https://en.wikipedia.org/wiki/Taj_Mahal">click here to know more</a></p></div>
+
+        <div id="f"> <img src="https://images.pexels.com/photos/6776756/pexels-photo-6776756.jpeg?auto=compress&cs=tinysrgb&w=600" width="300px" height="200px"></a>
+        <p>The Red Fort Complex was built as the palace fort <br>
+             of Shahjahanabad – the new capital of the fifth Mughal <br>
+              Emperor of India, Shah Jahan. Named for its massive <br>
+              enclosing walls of red sandstone, it is adjacent to <br>
+              an older fort, the Salimgarh, built by Islam Shah Suri <br>
+              in 1546, with which it forms the Red Fort Complex.
+            <a href=" https://en.wikipedia.org/wiki/Red_Fort">click here to know more</a></p>
+            </div>
+        <div id="g"><img src="  https://images.pexels.com/photos/3581369/pexels-photo-3581369.jpeg?auto=compress&cs=tinysrgb&w=600 " width="300px"height="200px">
+        <p> hawa mahal, It was built in 1799 by Maharaja Sawai Pratap Singh <br>
+             for the court harem so that they could witness the <br>
+              royal processions and the street life. The exquisite <br>
+               pink and red sandstone 'mahal' stands out for its <br>
+                striking architecture, and the beautiful 'jhaali' <br>
+                 works on its 953 windows. <a href=" https://en.wikipedia.org/wiki/Hawa_Mahal">click here to know more </a></p></div>
+
+        <div id="h"><img src=" https://tinyurl.com/ymehv7ne"width="300px"height="200px" >
+        <p>The Ajanta – Ellora caves have evolved during the <br>
+             period 2nd century BC to 6th Century AD. The paintings <br>
+              and sculptures of Ajanta and Ellora caves are UNESCO <br>
+               World Heritage Sites since 1983 and are considered  <br>
+               masterpieces of Buddhist religious art that have had <br>
+                a great influence in the development of art in India. <a href="https://en.wikipedia.org/wiki/Ajanta_Caves ">click here to know more </a></p></div>
+
+        <div id="i"><img src=" https://images.pexels.com/photos/6210324/pexels-photo-6210324.jpeg?auto=compress&cs=tinysrgb&w=600" width="300px" height="200px">
+        <p> Victoria Memorial, a majestic white marble edifice <br>
+             situated in the middle of 64 acres (25 ha) of <br>
+             sprawling gardens, dominating the centre of the <br>
+             Kolkata, India. Architecturally, it seems to reflect <br> 
+             contemporary British civic classicism, but there are <br>
+              deliberate Eastern references as well. <a href=" https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata">click here to know more </a></p></div>
+
+        <div id="j"><img src="  https://images.pexels.com/photos/12460245/pexels-photo-12460245.jpeg?auto=compress&cs=tinysrgb&w=600" width="300px" height="200px">
+        <p> The monument was erected to commemorate the landing of <br>
+             King George V and Queen Mary at Apollo Bunder on their <br>
+             visit to India in 1911. Built in Indo-Saracenic style, <br>
+              the foundation stone for the Gateway of India was laid <br>
+               on 31 March 1911. The structure is an arch made of <br>
+                basalt, 26 metres (85 feet) high. <a href=" https://en.wikipedia.org/wiki/Gateway_of_India">click here to know more </a></p></div>
+
+        <div id="k"><img src=" https://images.pexels.com/photos/5246781/pexels-photo-5246781.jpeg?auto=compress&cs=tinysrgb&w=600" width="300px"height="200px">
+        <p> The temples at Khajuraho were built during the Chandella <br>
+            dynasty, which reached its apogee between 950 and 1050. <br>
+             Only about 20 temples remain; they fall into three <br>
+             distinct groups and belong to two different religions <br>
+             – Hinduism and Jainism.  <a href=" https://en.wikipedia.org/wiki/Khajuraho_Group_of_Monuments">click here to know more </a></p></div>
+        
+        <div id="l"><img src=" https://images.pexels.com/photos/16892640/pexels-photo-16892640/free-photo-of-qutab-minar-in-new-delhi-in-india.jpeg?auto=compress&cs=tinysrgb&w=600" width="300px"height="200px">
+        <p> The Qutub Minar, also spelled "Qutb Minar," was built in <br>
+             1192 by Qutb-ud-din Aibak, the first Sultan and first  <br>
+             Muslim ruler of Delhi, and was completed in 1368 by <br>
+              Firoz Shah Tughlaq. The history of building royal tombs <br>
+              dates back to the 13th century, with the square tomb <br>
+               of Iltutmish in Quwwat-ul-Islam mosque <a href=" https://en.wikipedia.org/wiki/Qutb_Minar">click here to know more </a></p></div></div>
+               <hr>
+
+<footer> 
+    <p align="center"> <h3 align="center" >follow us on
+        <a href=" https://www.bing.com/ck/a?!&&p=72d70cccfb02f2d2JmltdHM9MTcxODU4MjQwMCZpZ3VpZD0yNzliYmVmZi1mNGJjLTYzMjUtMDI2ZC1hY2JiZjUyNzYyZTAmaW5zaWQ9NTIxMw&ptn=3&ver=2&hsh=3&fclid=279bbeff-f4bc-6325-026d-acbbf52762e0&psq=facebook&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLw&ntb=1"><i class="fa-brands fa-facebook"></i></a>
+       <a href=" https://www.bing.com/ck/a?!&&p=f0ed662640474836JmltdHM9MTcxODU4MjQwMCZpZ3VpZD0yNzliYmVmZi1mNGJjLTYzMjUtMDI2ZC1hY2JiZjUyNzYyZTAmaW5zaWQ9NTQ5OQ&ptn=3&ver=2&hsh=3&fclid=279bbeff-f4bc-6325-026d-acbbf52762e0&psq=github+login&u=a1aHR0cHM6Ly9naXRodWIuY29tL3NpZ251cD9zb3VyY2U9bG9naW4&ntb=1"> <i class="fa-brands fa-github"></i></a>
+    <p align="right">-designed and developed by m. nagasree </p></h3>
+    
+    </p> 
+</footer>
+     <hr>
+</body>
+</html>
